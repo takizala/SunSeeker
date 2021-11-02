@@ -1,0 +1,4 @@
+Reference, Quantity, Value, Footprint, Datasheet,Digi-Key PN,Price
+J1 ,1,1x6 Female Header,Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical,https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/85_Web.pdf,311-10.0KHRDKR-ND,$1.95 
+R1 R2 R3 R4 ,4,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf,1528-1074-ND,$0.00 
+R5 R6 R7 R8 ,4,R_PHOTO,photoresistor5mm:5mmPhotoresistor,~,~,~
